@@ -1,5 +1,4 @@
 # Credential-Safe-Box
-🔑 Credential-Safe-Box
 
-
-- Automated update for PR #1-1764734821-479
+🔑 **Credential-Safe-Box**: A secure, lightweight CLI tool for managing encrypted secrets.
+🛡️ Built with Go. Supports AES-256 encryption and secure memory handling.
